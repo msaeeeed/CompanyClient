@@ -1,0 +1,4 @@
+D:\my_visual_studio_projs\CompanyClient\CompanyClient\bin\CompanyClient.dll
+D:\my_visual_studio_projs\CompanyClient\CompanyClient\bin\CompanyClient.pdb
+D:\my_visual_studio_projs\CompanyClient\CompanyClient\obj\Debug\CompanyClient.dll
+D:\my_visual_studio_projs\CompanyClient\CompanyClient\obj\Debug\CompanyClient.pdb
