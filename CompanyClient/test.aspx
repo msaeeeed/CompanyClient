@@ -16,7 +16,7 @@
     <p>
         <asp:Button ID="Button2" runat="server" Text="Confidential" 
             onclick="Button2_Click" />
-        <asp:Label ID="Label2" runat="server" Text="Label2"></asp:Label>
+        <asp:Label ID="Label2" runat="server" Text="Label3"></asp:Label>
     </p>
     </form>
 </body>
